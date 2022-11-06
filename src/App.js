@@ -12,7 +12,7 @@ const ErrorBoundaryFallback = ({ error, resetErrorBoundary }) => {
   return (
     <div id="wholepage">
       <p>{error.message}</p>
-      <button onClick={() => resetErrorBoundary()}>Restart application</button>
+      <button className="errorpage" onClick={() => resetErrorBoundary()}>Restart application</button>
     </div>
   );
 };
