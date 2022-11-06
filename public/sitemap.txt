@@ -1,0 +1,3 @@
+https://counter-app-joe.netlify.app/
+https://counter-app-joe.netlify.app/nopage
+https://counter-app-joe.netlify.app/error

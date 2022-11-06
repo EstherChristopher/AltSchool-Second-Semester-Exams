@@ -1,0 +1,138 @@
+#wholepage {
+  background-color: bisque;
+}
+
+.increment {
+  margin: 10px;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.increment:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+.decrement {
+  margin: 10px;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.decrement:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+.reset {
+  margin: 10px;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.reset:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+.set {
+  margin: none;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.set:hover {
+  background-color: brown;
+  cursor: pointer;
+  cursor: pointer;
+}
+
+input {
+  width: 10em;
+  height: 3ex;
+  border: 2px solid firebrick;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.Home {
+  font-size: 30px;
+  font-weight: 500px;
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+.Home:hover {
+  color: rgb(184, 100, 20);
+  cursor: pointer;
+}
+
+.Nullpage {
+  font-size: 30px;
+  font-weight: 500px;
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+.Nullpage:hover {
+  color: rgb(184, 100, 20);
+  cursor: pointer;
+}
+
+.Errorboundarypage {
+  font-size: 30px;
+  font-weight: 500px;
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+.Errorboundarypage:hover {
+  color: rgb(184, 100, 20);
+  cursor: pointer;
+}
+
+#message {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.page404 {
+  margin: 10px;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.page404:hover {
+  background-color: brown;
+  cursor: pointer;
+}
+
+.testerror {
+    margin: 10px;
+  background-color: peru;
+  color: azure;
+  border-color: brown;
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.testerror:hover {
+    background-color: brown;
+  cursor: pointer;
+}
